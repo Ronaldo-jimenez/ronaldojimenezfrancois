@@ -7,3 +7,11 @@
 </head>
 <body>
 <div class="video-box">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kNJPalON82E" frameborder="0" allowfullscreen>/iframe>
+‹div class="info"›
+<h3>Titulo</h3>
+‹p›Descrição breve do vídeo.‹/p>
+</div>
+</div>
+</body>
+</html>
